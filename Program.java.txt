@@ -28,6 +28,7 @@ public class Dog
     // method 2 
     public String getBreed() 
     { 
+	breed = "aaa"
         return breed; 
     } 
   
