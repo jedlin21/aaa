@@ -163,7 +163,7 @@ We are certain that the main price of 50 000 on the Azure account **will let us 
 Nevertheless, we are proud to have collected 234 000 retail product pictures. It was achieved thanks to burst mode. `In burst mode, several photographs are captured in quick succession by either pressing the shutter button or holding it down.` 
 
 In a regular middle-sized shop there are about **3000 retail products**. We collected **71** categories of classification and 5 categories of detection. We are aware that collecting data of all those products will be very time-consuming. For this reason, **there are no products like Asisto on the market**. Due to time requirements of the task we **are planning to build a website** where `volunteers will help us to upload and tag pictures` of retail products.  
-**We are going to present** our application at the WiMLDS *(Poznan Woman in Machine Learning & Data Science)* where we are going to talk about main features of the app and show an audience how supporting our project will help visually impaired people. **We are hoping to create a dedicated Asisto community we brign vision where its needed the most** 
+**We are going to present** our application at the WiMLDS *(Poznan Woman in Machine Learning & Data Science)* where we are going to talk about main features of the app and show an audience how supporting our project will help visually impaired people. **We are hoping to create a dedicated Asisto community because we brign vision where its needed the most** 
 
  
 
