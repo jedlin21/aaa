@@ -9,9 +9,11 @@ After installing, open settings, then open `Accessibility`. After, click on the 
 
 ***
 
-**Start the app and the following screen will appear:**
+### Start the app and the following screen will appear:
 
 <img align="left" src="https://raw.githubusercontent.com/jedlin21/aaa/master/1.png">
+<br /><br />
+
 Starting the app opens the main view. The screen has two buttons on the bottom and one bar on the top. 
 
 The two buttons indicate: 
@@ -23,7 +25,8 @@ The two buttons indicate:
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/2.png">
-After choosing the left button, the user has two modes to choose from: 
+<br /><br />
+After choosing the *left button*, the user has two modes to choose from: 
 
 - #### “What is on the shelf?” 
 > Detecting products. It detects all products in the photo and reads the appropriate categories.
@@ -33,7 +36,7 @@ After choosing the left button, the user has two modes to choose from:
 > Starts voice assistant. User can ask “What is on the shelf?”, “What am I holding ?” or give other questions but with the same intention.
 - #### “Exit” 
 > Closes the menu and comes back to the main screen
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 <img align="left" src="https://raw.githubusercontent.com/jedlin21/aaa/master/3.png">
 
@@ -56,7 +59,9 @@ After *choosing* `“Where is something?”` The brail keyboard appears and the 
 ***
 
 
-Now you know how to use our application. Almost all the functions are implemented in the current version of the app. Our product database is not as big as we wish, but later on all retail products will be added. Following retail products can be recognized by the app: 
+### Now you know how to use our application. 
+
+Almost all the functions are implemented in the current version of the app. Our product database is not as big as we wish, but later on all retail products will be added. Following retail products can be recognized by the app: 
 
 ### Detection: 
   - Coffee 
