@@ -20,9 +20,9 @@ The two buttons indicate:
  
  - Right button takes a picture of the view. After, the app starts voice assistant, which recognizes user’s intent.
 
-
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/1.png">
+
+<img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/2.png">
 After choosing the left button, the user has two modes to choose from: 
 
 - #### “What is on the shelf?” 
@@ -33,10 +33,27 @@ After choosing the left button, the user has two modes to choose from:
 > Starts voice assistant. User can ask “What is on the shelf?”, “What am I holding ?” or give other questions but with the same intention.
 - #### “Exit” 
 > Closes the menu and comes back to the main screen
+<br /><br /><br /><br />
 
+<img align="left" src="https://raw.githubusercontent.com/jedlin21/aaa/master/3.png">
 
+This pop-up appears after **choosing** `"What is on the shelf?"` mode or after **asking** `with voice assistant with the same intention`. 
 
+- #### “Where is something?”  
+> After clicking it, the users are directed to a brail keyboard and can type the name of the product by themselves.
 
+- #### ”Cereal” 
+>is one of the 5 item types that Asisto recognizes: coffee, cereal, tomato sauce, dairy, fruits. After clicking the name, Asisto **indicates exactly** where the product(s) are.
+
+*For example, Asisto will indicate: “One item, At Eleven, Top”*
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/4.png">
+<br /><br />
+After *choosing* `“Where is something?”` The brail keyboard appears and the user can type the name of an item that they want to find.
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+***
 
 
 Now you know how to use our application. Almost all the functions are implemented in the current version of the app. Our product database is not as big as we wish, but later on all retail products will be added. Following retail products can be recognized by the app: 
