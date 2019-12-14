@@ -22,7 +22,7 @@ The two buttons indicate:
  
  - Right button takes a picture of the view. After, the app starts voice assistant, which recognizes user’s intent.
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/2.png">
 <br /><br />
@@ -39,7 +39,7 @@ After choosing the *left button*, the user has two modes to choose from:
 <br /><br /><br /><br /><br /><br />
 
 <img align="left" src="https://raw.githubusercontent.com/jedlin21/aaa/master/3.png">
-
+<br /><br />
 This pop-up appears after **choosing** `"What is on the shelf?"` mode or after **asking** `with voice assistant with the same intention`. 
 
 - #### “Where is something?”  
@@ -49,10 +49,11 @@ This pop-up appears after **choosing** `"What is on the shelf?"` mode or after *
 >is one of the 5 item types that Asisto recognizes: coffee, cereal, tomato sauce, dairy, fruits. After clicking the name, Asisto **indicates exactly** where the product(s) are.
 
 *For example, Asisto will indicate: “One item, At Eleven, Top”*
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/4.png">
 <br /><br />
+
 After *choosing* `“Where is something?”` The brail keyboard appears and the user can type the name of an item that they want to find.
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
