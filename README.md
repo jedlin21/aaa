@@ -16,17 +16,17 @@ After installing, open settings, then open `Accessibility`. After, click on the 
 
 Starting the app opens the main view. The screen has two buttons on the bottom and one bar on the top. 
 
-The two buttons indicate: 
- -  Left button takes a picture of the view. After, it will open sub-menu with recognition modes
- <br />
+**The two buttons indicate:** 
+ - **Left button** takes a picture of the view. After, it will open sub-menu with recognition modes
  
- - Right button takes a picture of the view. After, the app starts voice assistant, which recognizes user’s intent.
+ - **Right button** takes a picture of the view. After, the app starts voice assistant, which recognizes user’s intent.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <img align="right" src="https://raw.githubusercontent.com/jedlin21/aaa/master/2.png">
 <br /><br />
-After choosing the *left button*, the user has two modes to choose from: 
+
+After choosing the **left button**, the user has two modes to choose from: 
 
 - #### “What is on the shelf?” 
 > Detecting products. It detects all products in the photo and reads the appropriate categories.
