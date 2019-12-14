@@ -17,9 +17,9 @@ After installing, open settings, then open `Accessibility`. After, click on the 
 Starting the app opens the main view. The screen has two buttons on the bottom and one bar on the top. 
 
 **The two buttons indicate:** 
- - **Left button** takes a picture of the view. After, it will open sub-menu with recognition modes
+ - **Left button** takes a picture of the view. After, it will open **sub-menu with recognition modes**
  
- - **Right button** takes a picture of the view. After, the app starts voice assistant, which recognizes user’s intent.
+ - **Right button** takes a picture of the view. After, the app starts **voice assistant**, which recognizes user’s intent.
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
