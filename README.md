@@ -73,86 +73,48 @@ Almost all the functions are implemented in the current version of the app. Our 
 
 ### Classification:
 
-- #### Sweets  
-  - ##### Lindt chocolate (15) 
-    - 45% Milk Cocoa 
-    - 50% Cocoa 
-    - 70% Cocoa 
-    - 78% Cocoa 
-    - 85% Cocoa 
-    - 90% Cocoa 
-    - 99% Cocoa 
-    - Blueberry 
-    - Caramel 
-    - Poire 
-    - Pink Grapefruit 
-    - Roasted Hazelnut 
-    - Sauerkirch Chili 
-    - Scharze Johannisbeere 
-    - Sea Salt 
-  - ##### Milka chocolate (9) 
-    - Milk 
-    - Caramel 
-    - Collage 
-    - Daim 
-    - Milkinis 
-    - Oreo 
-    - Strawberry 
-    - White 
-    - Yoghurt 
-  - ##### Ritter chocolate (12) 
-    - Mousse 
-    - Wafer 
-    - Pralline 
-    - Rum Rasins Hazelnuts 
-    - Strawberry Yoghurt 
-    - White Whole Hazelnuts 
-    - Alpine Milk 
-    - Coconut 
-    - Fine Milk 
-    - Pepper mint 
-    - Dark 
-    - Hazelnuts 
-  - ##### Wedel chocolate (2) 
-    - Pierrot 
-    - Crunchy Cookie 
-- #### Cereals (7) 
-    - Chocapic 
-    - Cini minis 
-    - Cini minis strawberry 
-    - Cookie crisp 
-    - Corn Flakes 
-    - Lion 
-    - Nesquik 
-- #### Soft drinks 
-  - ##### Can (9) 
-    - Coca cola 
-    - 7up 
-    - Fanta 
-    - Mountain Dew 
-    - Pepsi  
-    - Pepsi Max 
-    - Red Bull 
-    - Red Bull Sugar Free 
-    - Sprite 
-  - ##### Bottle (17) 
-    - Coca Cola 
-    - Coca Cola zero 
-    - 7up  
-    - Fanta Grape 
-    - Fanta Orange  
-    - Fanta Shokata    
-    - Lipton Green Ice Tea  
-    - Lipton Orange 
-    - Lipton Lemon  
-    - Lipton Peach  
-    - Pepsi 
-    - Pepsi Lime 
-    - Pepsi Wild Cherry 
-    - Pepsi Ginger 
-    - Red Bull  
-    - Sprite 
-    - Mountain Dew 
+#### Sweets
+
+| Lindt chocolate | Milka chocolate | Ritter chocolate  | Wedel chocolate |
+| :-------------: |:-------------:|:-------------:| :-----:|
+| 45% Milk Cocoa      | Milk | Mousse | Pierrot |
+| 50% Cocoa      | Caramel |  Wafer | Crunchy Cookie |
+| 70% Cocoa | Collage | Pralline | |
+| 78% Cocoa | Daim | Rum Rasins Hazelnuts |  |
+| 85% Cocoa | Milkinis | Strawberry Yoghurt |  |
+| 90% Cocoa | Oreo |  White Whole Hazelnuts |  |
+| 99% Cocoa  | Strawberry | Alpine Milk  |  |
+| Blueberry | White | Coconut |  |
+| Caramel | Yoghurt | Fine Milk  |  |
+| Poire |  | Pepper mint |  |
+| Pink Grapefruit |  | Dark |  |
+| Roasted Hazelnut |  | Hazelnuts |  |
+| Sauerkirch Chili |  |  |  |
+| Scharze Johannisbeere |  |  |  |
+| Sea Salt |  |  |  |
+
+#### Cereals and soft drinks
+
+| Soft drinks (bottle) | Soft drinks (can) | Cereals | 
+| :-------------: |:-------------:|:-------------:| 
+| Coca Cola | Coca cola | Chocapic | 
+| Coca Cola zero | 7up | Cini minis | 
+| 7up | Fanta | Cini minis strawberry | 
+| Fanta Grape  | Mountain Dew | Cookie crisp | 
+| Fanta Orange | Pepsi | Corn Flakes | 
+| Fanta Shokata | Pepsi Max | Lion | 
+| Lipton Green Ice Tea | Red Bull | Nesquik | 
+| Lipton Orange | Red Bull Sugar Free |  | 
+| Lipton Lemon | Sprite |  | 
+| Lipton Peach |  |  | 
+| Pepsi |  |  | 
+| Pepsi Lime |  |  | 
+| Pepsi Wild Cherry |  |  | 
+| Pepsi Ginger |  |  | 
+| Red Bull |  |  | 
+| Sprite |  |  | 
+| Mountain Dew |  |  | 
+
 
 So far, we have collected 100GB of data which consists of **234 000** pictures.   
 
